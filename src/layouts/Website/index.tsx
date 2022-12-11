@@ -5,7 +5,7 @@ import WebsiteHeader from './Header';
 const WebsiteLayout = () => {
   return (
     <>
-         <WebsiteHeader />
+        <WebsiteHeader />
         <Outlet />
         <WebsiteFooter />
     </>
