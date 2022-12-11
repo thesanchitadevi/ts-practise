@@ -1,6 +1,9 @@
+
 const WebsiteHeader = () => {
+  
+
   return (
-    <div>WebsiteHeader</div>
+    <div className="border border-green-600"> header</div>
   )
 }
 
